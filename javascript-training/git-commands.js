@@ -10,4 +10,4 @@
 
 //6. git commit -m "message" =>to commit the changes in the local repository
 
-//7. git push -u origin master =>to push the changes in the remote repository
+//7. git push origin master =>to push the changes in the remote repository
